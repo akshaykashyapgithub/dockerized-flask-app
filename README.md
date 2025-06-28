@@ -82,8 +82,3 @@ Hello from Dockerized Flask App!
     2. Deploy the container to AWS EC2 or ECS
 
     3. Automate image versioning and testing
-
-## 📌 Repository
-
-    This project is publicly available at:
-    🔗 https://github.com/akshaykashyap74/dockerized-flask-app
